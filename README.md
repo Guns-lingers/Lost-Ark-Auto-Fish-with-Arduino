@@ -27,7 +27,7 @@
 
 Выполните следующие команды в терминале:
 
-```bash
+```python
 pip3 install -r requirements.txt
 python auto_fish.py
 ```
