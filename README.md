@@ -18,9 +18,12 @@ Before use, ensure your setup matches the tested configuration:
 
 ## Development Environment Setup
 
-To set up the development environment, make sure you have Python 3.11.0 or a later version installed. Follow the installation steps provided [here](https://www.python.org/downloads/).
+To set up the development environment, make sure you have Python 3.11.0 or a later version installed.
 
-Once Python is installed, execute the following commands in the terminal:
+- [Python 3.11.0 or later](https://www.python.org/downloads/)
+- [Arduino IDE](https://www.arduino.cc/en/software)
+
+Once Python and Arduino IDE are installed, execute the following commands in the terminal:
 
 ```bash
 pip3 install -r requirements.txt
