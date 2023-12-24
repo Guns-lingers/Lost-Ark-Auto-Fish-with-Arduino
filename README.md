@@ -23,7 +23,8 @@ To set up the development environment, make sure you have Python 3.11.0 or a lat
 - [Python 3.11.0 or later](https://www.python.org/downloads/)
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
-Once Python and Arduino IDE are installed, execute the following commands in the terminal:
+Once Python and Arduino IDE are installed, download the [Arduino sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/auto_fish_sketch.ino) from the provided file.
+Execute the following commands in the terminal:
 
 ```bash
 pip3 install -r requirements.txt
