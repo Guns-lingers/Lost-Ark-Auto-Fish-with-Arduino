@@ -25,3 +25,7 @@ Once Python is installed, execute the following commands in the terminal:
 ```bash
 pip3 install -r requirements.txt
 python auto_fish.py
+```
+
+## WARNING
+⚠️ This tool is not endorsed by Smilegate or AGS. Its usage is not defined by Smilegate or AGS. No personal identifiable data is saved during the operation of this tool. Use it responsibly and at your own discretion. ⚠️
