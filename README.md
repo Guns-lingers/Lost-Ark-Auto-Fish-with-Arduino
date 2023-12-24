@@ -23,9 +23,12 @@
 - [Python 3.11.0 or later](https://www.python.org/downloads/)
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
+Схема плдключания сервомотора к Arduino
+![servo scheme](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/ex23_servo_scheme.png)
+
 После установки Python и Arduino IDE, загрузите [Arduino sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/auto_fish_sketch.ino) из предоставленного файла, откройте его в Arduino IDE, подключите Arduino и загрузите.
 
-![Upload_Sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/Upload_sketch.jpg)
+![Upload sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/Upload_sketch.jpg)
 
 Выполните следующие команды в терминале не отключая Arduino:
 
@@ -36,7 +39,9 @@ python auto_fish.py
 
 Если вы все сделали правильно, у вас должно открыться окно, и в поле выбора COM-порта будет отображен используемый в текущий момент Arduino порт.
 
-![Upload_Sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/Auto_fish_UI.jpg)
+![Auto fish UI](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/Auto_fish_UI.jpg)
+
+После этого воодите текущее количество энергии, прочность инструмента, а так же не забудьте прикрепить сервомотор к той клавише, которая у вас отвечает за рыбалку. И после этого можете запускать, не забыв потом переключиться на окно игры.
 
 ## ПРЕДУПРЕЖДЕНИЕ
 
