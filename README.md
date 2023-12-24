@@ -18,7 +18,7 @@ Before use, ensure your setup matches the tested configuration:
 
 ## Development Environment Setup
 
-To set up the development environment, make sure you have Python 3.11.0 or a later version installed. Follow the installation steps provided [here](link-to-installation-guide).
+To set up the development environment, make sure you have Python 3.11.0 or a later version installed. Follow the installation steps provided [here](https://www.python.org/downloads/).
 
 Once Python is installed, execute the following commands in the terminal:
 
@@ -28,4 +28,5 @@ python auto_fish.py
 ```
 
 ## WARNING
+
 ⚠️ This tool is not endorsed by Smilegate or AGS. Its usage is not defined by Smilegate or AGS. No personal identifiable data is saved during the operation of this tool. Use it responsibly and at your own discretion. ⚠️
