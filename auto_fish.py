@@ -26,9 +26,6 @@ class FishingBotGUI:
 
         self.create_UI()
 
-        with open("resources/keybindings.yaml", "r") as yamlfile:
-            self.keybindings = yaml.safe_load(yamlfile)
-
         self.screenWidth, self.screenHeight= pyautogui.size()
         self.flag = "pulled"
 
@@ -197,13 +194,9 @@ class FishingBotGUI:
             if len(self.loc[0]) > 0 and self.flag == "thrown":
                 time.sleep( random.uniform(0.04, 0.085))
 
-                # keyboard.press(keybindings['fishing'])
                 self.move_servo(30)
                 time.sleep( random.uniform(0.3, 0.8))
-                # keyboard.release(keybindings['fishing'])
                 self.move_servo(0)
-
-                # pyautogui.press(keybindings['fishing'])
                 
                 self.flag = "pulled"
                 
