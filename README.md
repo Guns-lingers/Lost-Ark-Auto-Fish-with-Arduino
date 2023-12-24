@@ -25,7 +25,7 @@
 
 После установки Python и Arduino IDE, загрузите [Arduino sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/auto_fish_sketch.ino) из предоставленного файла, откройте его в Arduino IDE, подключите Arduino и загрузите.
 
-![Upload_Sketch](images/sample.png)
+![Upload_Sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/Upload_sketch.jpg)
 
 Выполните следующие команды в терминале не отключая Arduino:
 
@@ -36,7 +36,7 @@ python auto_fish.py
 
 Если вы все сделали правильно, у вас должно открыться окно, и в поле выбора COM-порта будет отображен используемый в текущий момент Arduino порт.
 
-![Upload_Sketch](images/sample.png)
+![Upload_Sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/Auto_fish_UI.jpg)
 
 ## ПРЕДУПРЕЖДЕНИЕ
 
