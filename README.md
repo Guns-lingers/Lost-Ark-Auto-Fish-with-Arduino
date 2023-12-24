@@ -1,10 +1,13 @@
 # Lost-Ark-Auto-Fish-with-Arduino
 
-**Automated Fishing Tool for Lost Ark (Автоматизированный инструмент для рыбалки в Lost Ark)**
+**Automated Fishing Tool for Lost Ark**
+**Автоматизированный инструмент для рыбалки в Lost Ark**
 
-## Overview (Обзор)
+## Overview
+## Обзор
 
-This tool is designed to streamline the fishing lifeskill in Lost Ark, providing automation without interfering with game code or network packets. It captures screenshots within specified regions and utilizes image recognition to identify and perform appropriate actions. (Этот инструмент разработан для оптимизации навыка рыболовства в Lost Ark, предоставляя автоматизацию без вмешательства в игровой код или сетевые пакеты. Он делает снимки экрана в указанных областях и использует распознавание изображений для определения и выполнения соответствующих действий.)
+This tool is designed to streamline the fishing lifeskill in Lost Ark, providing automation without interfering with game code or network packets. It captures screenshots within specified regions and utilizes image recognition to identify and perform appropriate actions
+Этот инструмент разработан для оптимизации навыка рыболовства в Lost Ark, предоставляя автоматизацию без вмешательства в игровой код или сетевые пакеты. Он делает снимки экрана в указанных областях и использует распознавание изображений для определения и выполнения соответствующих действий.
 
 *Note: Results may vary based on individual circumstances. (Примечание: Результаты могут варьироваться в зависимости от индивидуальных обстоятельств.)*
 
