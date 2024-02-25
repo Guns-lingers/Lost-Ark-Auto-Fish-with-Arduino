@@ -23,7 +23,7 @@
 - [Python 3.11.0 or later](https://www.python.org/downloads/)
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
-Схема подключания сервомотора к Arduino
+Схема подключения сервомотора к Arduino
 ![servo scheme](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/ex23_servo_scheme.png)
 
 После установки Python и Arduino IDE, загрузите [Arduino sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/auto_fish_sketch/auto_fish_sketch.ino) из предоставленного файла, откройте его в Arduino IDE, подключите Arduino и загрузите.
