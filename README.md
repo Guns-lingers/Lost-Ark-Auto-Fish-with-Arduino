@@ -19,6 +19,7 @@
 ## Настройка среды разработки
 
 Чтобы настроить среду разработки, убедитесь, что у вас установлена Python версии 3.11.0 или более поздней, а так же Arduino IDE.
+Или вы можете использовать файл auto_fish.exe, что избавит вас от необходимости скачивать и устанавливать Python и библиотеки к нему.
 
 - [Python 3.11.0 or later](https://www.python.org/downloads/)
 - [Arduino IDE](https://www.arduino.cc/en/software)
@@ -30,7 +31,7 @@
 
 ![Upload sketch](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/blob/main/Upload_sketch.jpg)
 
-Выполните следующие команды в терминале не отключая Arduino:
+Выполните следующие команды в терминале не отключая Arduino (Если вы решили использовать auto_fish.py файл):
 
 ```bash
 pip3 install -r requirements.txt
