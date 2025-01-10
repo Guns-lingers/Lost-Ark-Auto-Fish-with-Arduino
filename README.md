@@ -46,7 +46,7 @@ python auto_fish.py
 ## Обновления
 
 Теперь доступен исполнимый файл .exe! Не требуется установка Python или дополнительных библиотек — просто запустите файл и используйте инструмент.
-Но вам по преждему требуется скачать весь архив целиком: ![All project](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/archive/refs/heads/main.zip)
+Но вам по преждему требуется скачать весь архив целиком: [All project](https://github.com/Guns-lingers/Lost-Ark-Auto-Fish-with-Arduino/archive/refs/heads/main.zip)
 
 ## ПРЕДУПРЕЖДЕНИЕ
 
